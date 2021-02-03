@@ -16,7 +16,7 @@ With the keywords we use, we found many literatures related to soft robotics or 
 
 [**_Bibliography_**](/bibliography)
 
-1. [**“An Origami-Inspired, Self-Locking Robotic Arm That Can Be Folded Flat.”_**](https://robotics.sciencemag.org/content/3/16/eaar2915/tab-pdf)
+1. [**_“An Origami-Inspired, Self-Locking Robotic Arm That Can Be Folded Flat.”_**](https://robotics.sciencemag.org/content/3/16/eaar2915/tab-pdf)
 In this paper, an origami-inspired self-locking foldable robotics arm is designed. The system is driven by tendon-driven actuation, and a self-locking mechanism is implemented. The foldable arms installed on mobile robots can allow them to reach into narrow space and perform more tasks.
 
 1. [**_"Dual-stiffness structures with reconfiguring mechanism: Design and investigation. Journal of Intelligent Material Systems and Structures."_**](https://journals.sagepub.com/doi/full/10.1177/1045389x15577642?casa_token=RLMsBITAkecAAAAA%3Ay9aj_sNHRRT8XTQQGwMcCgQD4r3TLM6ZRac4GBO8vP2MoBcgVqpXWnK-vfV6myrXMrbZKxW223Y)
