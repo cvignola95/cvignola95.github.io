@@ -14,7 +14,7 @@ We use the combinations of “variable stiffness”, “foldable mechanisms”, 
 
 With the keywords we use, we found many literatures related to soft robotics or variable impedance actuators using many mechanical parts like springs and motors, which does not fit our research topic. There are several papers that present foldable mechanisms that provide lock/unlock of the motion but not many of them have the ability to have a continuous stiffness change. 
 
-### [Bibliography](/bibliography)
+[**_Bibliography_**](/bibliography)
 
 1. [**“An Origami-Inspired, Self-Locking Robotic Arm That Can Be Folded Flat.”_**](https://robotics.sciencemag.org/content/3/16/eaar2915/tab-pdf)
 In this paper, an origami-inspired self-locking foldable robotics arm is designed. The system is driven by tendon-driven actuation, and a self-locking mechanism is implemented. The foldable arms installed on mobile robots can allow them to reach into narrow space and perform more tasks.
