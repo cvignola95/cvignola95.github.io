@@ -2,11 +2,13 @@
 title: How to modify actuator’s stiffness to achieve controllable linear and/or spherical motion of a paper and plastic based robotic actuator/s using foldable robotics techniques.
 ---
 
-# Tractability:
+# How to modify actuator’s stiffness to achieve controllable linear and/or spherical motion of a paper and plastic based robotic actuator/s using foldable robotics techniques.
+
+## Tractability:
 
 Our original research question specifically stated, “How to increase the actuator stiffness and achieve linear and spherical motion of a robotic arm model using foldable robotic techniques.”.  This open-ended question was deemed unachievable in only 15 weeks, but rephrasing it into a lower-level system as one or two actuators would be compared to a SCARA manipulator and defining paper  and plastic as the sole materials being used as the base material, the project appears more constrained and therefore achievable. 
 
-# Novelty:
+## Novelty:
 
 We use the combinations of “variable stiffness”, “foldable mechanisms”, origami”, “actuators”, and their synonyms as the keywords to search for literature for our topic.
 
@@ -26,25 +28,25 @@ A tubular origami mechanism is presented in this paper. By heating the system, t
 1. [**_“In Situ Stiffness Manipulation Using Elegant Curved Origami.”_** ](/bibliography)
 This paper illustrates design of curved origami patterns to achieve in situ stiffness changes by activating different curved creases. Different curved patterns can be designed for different applications. In this paper, three robotics related components are demonstrated: a lightweight universal gripper, a cube with tunable stiffness for controllable force transmissibility, and Miura patterns for in situ multistage stiffness response.
 
-# Interesting:
+## Interesting:
 Paper base actuators in foldable robotics are part of the learning environment that Dr. Aukes is developing for students. By answering this broad but at the same time, specific question, the future students and/or researchers will have tangible information and data to make design decisions while developing new technologies. Our results must demonstrate if this type of control is achievable using commonly available items and, if not, what kind of expertise and design factors would be required to achieve controllable linear and/or spherical motion.
 
 Today more than ever, the development of foldable robotics requires further investigations by the research community. Actuators are the way of motion of foldable robots to initiate or continue the motion. This question is relative in the macro-robotics community, which was studying the materials' particular characteristics ten years ago. In this research question, we benefit from the past research, and it strives to bring forward a subject (mixed-materials actuation) that did not get enough attention.
 
 The advantage of mixed-materials actuation will prove useful to improve macro-actuation further, and it could be an inspiration to analyze micro-actuation at a molecular level. This research subject will improve the understanding of material limitations and therefore show the importance of mixed-materials analysis.
 
-# Open-Ended:
+## Open-Ended:
 
 With varying geometric parameters and constraints, there are many ways to modify a joint stiffness using paper-based foldable robotics techniques. Our work would be one of the many solutions. Given a limited time and budget, we would only try out some mechanisms using a few materials and pick a best design within our tryouts. Each materials selection and mechanism designs of the actuators would have their own advantages and disadvantages, and different characterizations. Some of them would be more suitable for certain situations. With different needs, researchers can study and fabricate several prototypes to meet their needs.
 
-# Modular:
+## Modular:
 
 Answering the question about the stiffness of the foldable robotic actuator is very modular. While this project specifically deals with the stiffness of the robot’s actuator, the broader goal of this project is to design a robotic arm and to study the impact of actuator stiffness of robotic arms used for several applications like manufacturing, surgery and agriculture. For example, the integration of soft actuating materials with origami based mechanisms for low stiffness robotic applications can be understood with the question that we propose. By answering the question about the stiffness of the robotic actuator, one can become completely familiar with the several materials that can be used to build actuators for robotic arms for different kinds of applications. Along with that, working on this question also gives the opportunity to design an actuator using foldable robotic techniques and then test the stiffness of it. Actuator stiffness plays an important role when designing a robotic system that leverages foldable techniques rather than the conventional techniques. Studying the stiffness of the actuators will help a lot in designing foldable robots which have better strength to weight ratios when compared to traditional robots. Hence the study of actuator stiffness for designing actuators for foldable robots is very modular.
 
-# Team Fit:
+## Team Fit:
 
 This project was initially proposed to be a foldable robotic arm mounted on a mobile device which moves utilizing foldable robotic techniques instead of traditional techniques for motion. Creating such a robotic device and making the device autonomous was the primary interest of this project. So studying the stiffness of the actuators and answering the question about stiffness of actuators of robotic arms helps with designing a robotic arm for the initial idea of the project. All the team members of this project have the necessary knowledge and academic background to leverage their abilities and answer the question about stiffness of actuators. By answering this question the team members will be able to leverage their knowledge and abilities by providing valuable research data and ideas of how to test the actuator stiffness and by providing valuable suggestions and recommendations about the correct stiffness that has to be used for any particular foldable robotic arm application.
 
-# Topic Fit:
+## Topic Fit:
 
 Foldable robotics techniques have the benefit of allowing the use of low cost and widely available materials to be used in place of other more expensive options. By leveraging these techniques and determining the optimal stiffness of actuators for things like robotic arms it becomes possible to create an easily manufacturable robot that is able to accomplish a variety of tasks. In addition, this question leverages the limitations of these foldable materials and techniques, determining the kinds of actuation available using these techniques and where their limits lie and how these limitations compare to standard techniques currently used within robotics for similar applications.
