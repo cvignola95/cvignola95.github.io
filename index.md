@@ -17,7 +17,7 @@ _Italic Text_
 
 ## Research Question
 
-[link to How to modify actuator’s stiffness to achieve controllable linear and/or spherical motion of a paper and plastic based robotic actuator/s using foldable robotics techniques.](/researchquestion)
+[How to modify actuator’s stiffness to achieve controllable linear and/or spherical motion of a paper and plastic based robotic actuator/s using foldable robotics techniques.](/researchquestion)
 
 * Bullet Point 1
 * Bullet Point 2
