@@ -4,10 +4,17 @@ title: **_EGR557 Team 7: Stiffness Change for Agricultural Applications_**
 
 # Home
 ### Team Members:
-* _Claudio Vignola_     [cvignola@asu.edu](cvignola@asu.edu)
-* _Chien-Wen Pan_       cpan22@asu.edu
-* _Dallas Wells_        dwwells@asu.edu
-* _Manoj Akkaraboina_   makkarab@asu.edu
+* _Claudio Vignola_     
+cvignola@asu.edu
+
+* _Chien-Wen Pan_       
+cpan22@asu.edu
+
+* _Dallas Wells_        
+dwwells@asu.edu
+
+* _Manoj Akkaraboina_   
+makkarab@asu.edu
 
 ## Introduction
 
