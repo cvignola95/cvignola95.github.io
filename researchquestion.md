@@ -14,18 +14,18 @@ We use the combinations of “variable stiffness”, “foldable mechanisms”, 
 
 With the keywords we use, we found many literatures related to soft robotics or variable impedance actuators using many mechanical parts like springs and motors, which does not fit our research topic. There are several papers that present foldable mechanisms that provide lock/unlock of the motion but not many of them have the ability to have a continuous stiffness change. 
 
-1. [**“An Origami-Inspired, Self-Locking Robotic Arm That Can Be Folded Flat.”_**](/bibliography)
+### [Bibliography](/bibliography)
+
+1. [**“An Origami-Inspired, Self-Locking Robotic Arm That Can Be Folded Flat.”_**](https://robotics.sciencemag.org/content/3/16/eaar2915/tab-pdf)
 In this paper, an origami-inspired self-locking foldable robotics arm is designed. The system is driven by tendon-driven actuation, and a self-locking mechanism is implemented. The foldable arms installed on mobile robots can allow them to reach into narrow space and perform more tasks.
 
-
-1. [**_"Dual-stiffness structures with reconfiguring mechanism: Design and investigation. Journal of Intelligent Material Systems and Structures."_**](/bibliography)
+1. [**_"Dual-stiffness structures with reconfiguring mechanism: Design and investigation. Journal of Intelligent Material Systems and Structures."_**](https://journals.sagepub.com/doi/full/10.1177/1045389x15577642?casa_token=RLMsBITAkecAAAAA%3Ay9aj_sNHRRT8XTQQGwMcCgQD4r3TLM6ZRac4GBO8vP2MoBcgVqpXWnK-vfV6myrXMrbZKxW223Y)
 This paper presents dual-stiffness structures using combinations of rigid segments and soft segments in the structures. By changing the relative positions of the rigid segments to soft segments, the bending motions of the soft parts is constrained; hence, locked. This paper shows two mechanisms to achieve the reconfiguration: folding and bending.
 
-
-1. [**_"A self-deployable origami structure with locking mechanism induced by buckling effect."_**](/bibliography)
+1. [**_"A self-deployable origami structure with locking mechanism induced by buckling effect."_**](https://ieeexplore.ieee.org/document/7139635)
 A tubular origami mechanism is presented in this paper. By heating the system, the embedded SMA wires activate and a buckling effect changes the folding line from one to another diagonal to create axial stiffness. This effect enables the device to switch between two states: flexible and locked states.
 
-1. [**_“In Situ Stiffness Manipulation Using Elegant Curved Origami.”_** ](/bibliography)
+1. [**_“In Situ Stiffness Manipulation Using Elegant Curved Origami.”_** ](https://advances.sciencemag.org/content/advances/6/47/eabe2000.full.pdf)
 This paper illustrates design of curved origami patterns to achieve in situ stiffness changes by activating different curved creases. Different curved patterns can be designed for different applications. In this paper, three robotics related components are demonstrated: a lightweight universal gripper, a cube with tunable stiffness for controllable force transmissibility, and Miura patterns for in situ multistage stiffness response.
 
 ## Interesting:
