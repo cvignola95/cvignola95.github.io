@@ -2,7 +2,7 @@
 title: Develop a Research Question
 ---
 
-# How to modify actuator’s stiffness to achieve controllable linear and/or spherical motion of a paper and plastic based robotic actuator/s using foldable robotics techniques.
+# [How to modify actuator’s stiffness to achieve controllable linear and/or spherical motion of a paper and plastic based robotic actuator/s using foldable robotics techniques.](/Research Question Proposal Team 7.ipynb)
 
 ## Tractability:
 
