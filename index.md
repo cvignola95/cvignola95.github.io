@@ -1,5 +1,5 @@
 ---
-title: How to modify actuator’s stiffness to achieve controllable linear and/or spherical motion of a paper and plastic based robotic actuator/s using foldable robotics techniques.
+title: **_EGR557 Team 7: Stiffness Change for Agricultural Applications_**
 ---
 
 # Home
@@ -16,6 +16,8 @@ _Italic Text_
 **_Bold and Italic Text_**
 
 ## Research Question
+
+[link to How to modify actuator’s stiffness to achieve controllable linear and/or spherical motion of a paper and plastic based robotic actuator/s using foldable robotics techniques.](/researchquestion)
 
 * Bullet Point 1
 * Bullet Point 2
