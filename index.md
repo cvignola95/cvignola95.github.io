@@ -1,8 +1,13 @@
 ---
-title: Home
+title: How to modify actuator’s stiffness to achieve controllable linear and/or spherical motion of a paper and plastic based robotic actuator/s using foldable robotics techniques.
 ---
 
 # Home
+### Team Members:
+* _Claudio Vignola_     cvignola@asu.edu
+* _Chien-Wen Pan_       cpan22@asu.edu
+* _Dallas Wells_        dwwells@asu.edu
+* _Manoj Akkaraboina_   makkarab@asu.edu
 
 ## Introduction
 
@@ -36,3 +41,4 @@ _Italic Text_
 
 
 ## References
+[link to bibliography](/bibliography)
