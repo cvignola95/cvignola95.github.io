@@ -28,15 +28,15 @@ Title: Bibliography
 
 1. [G. Lauder and R. Shadwick, Fish biomechanics. Amsterdam: Academic Press, 2006, pp. 29-75.](https://www.researchgate.net/profile/James_Van_Tassell/publication/257017772_Dentition_diet_and_behavior_of_six_gobiid_species_Gobiidae_in_the_Caribbean_Sea/links/0deec525b39cf7583d000000/Dentition-diet-and-behavior-of-six-gobiid-species-Gobiidae-in-the-Caribbean-Sea.pdf)
 
-A. [Mohamad Aizat Abdul Wahit, Siti Anom Ahmad, Mohammad Hamiruce Marhaban, Chikamune Wada  and Lila Iznita Izhar “3D Printed Robot Hand Structure Using Four-Bar Linkage Mechanism for Prosthetic Application” Sensors (Basel). 2020 Aug; 20(15): 4174. Published online 2020 Jul 27. doi: 10.3390/s20154174  PMCID: PMC7435972 PMID: 32727150.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7435972/)
+1. [Mohamad Aizat Abdul Wahit, Siti Anom Ahmad, Mohammad Hamiruce Marhaban, Chikamune Wada  and Lila Iznita Izhar “3D Printed Robot Hand Structure Using Four-Bar Linkage Mechanism for Prosthetic Application” Sensors (Basel). 2020 Aug; 20(15): 4174. Published online 2020 Jul 27. doi: 10.3390/s20154174  PMCID: PMC7435972 PMID: 32727150.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7435972/)
 
-B. [Saha, Deeptam & Sanfui, Subhajit & Kabiraj, Rajat & Das, Santanu. (2014). Design and Implementation of a 4-Bar linkage Gripper. IOSR Journal of Mechanical and Civil Engineering. 11. 61-66. 10.9790/1684-11546166.](https://www.researchgate.net/profile/Santanu_Das10/publication/268076469_Design_and_Implementation_of_a_4-Bar_linkage_Gripper/links/5460eb3c0cf2c1a63bff7768/Design-and-Implementation-of-a-4-Bar-linkage-Gripper.pdf)
+1. [Saha, Deeptam & Sanfui, Subhajit & Kabiraj, Rajat & Das, Santanu. (2014). Design and Implementation of a 4-Bar linkage Gripper. IOSR Journal of Mechanical and Civil Engineering. 11. 61-66. 10.9790/1684-11546166.](https://www.researchgate.net/profile/Santanu_Das10/publication/268076469_Design_and_Implementation_of_a_4-Bar_linkage_Gripper/links/5460eb3c0cf2c1a63bff7768/Design-and-Implementation-of-a-4-Bar-linkage-Gripper.pdf)
 
-C. [Benjamin D. Shuch, Taha Shafa, Eric Rogers, Daniel M. Aukes. “DESIGN OF A TWO DOF LAMINATE LEG TRANSMISSION FOR CREATING WALKING ROBOT PLATFORMS” IDETC/CIE2019. IDETC2019-98100.](https://idealab.asu.edu/bibliography/Shuch2019.pdf)
+1. [Benjamin D. Shuch, Taha Shafa, Eric Rogers, Daniel M. Aukes. “DESIGN OF A TWO DOF LAMINATE LEG TRANSMISSION FOR CREATING WALKING ROBOT PLATFORMS” IDETC/CIE2019. IDETC2019-98100.](https://idealab.asu.edu/bibliography/Shuch2019.pdf)
 
-D. [Appolinaire C. Etoundi; Ravi Vaidyanathan; Stuart C. Burgess. “A bio-inspired condylar hinge joint for mobile robots” DOI: 10.1109/IROS.2011.6094924.](https://ieeexplore.ieee.org/document/6094924)
+1. [Appolinaire C. Etoundi; Ravi Vaidyanathan; Stuart C. Burgess. “A bio-inspired condylar hinge joint for mobile robots” DOI: 10.1109/IROS.2011.6094924.](https://ieeexplore.ieee.org/document/6094924)
 
-E. [Hwi-Su Kim; Jae-Bok Song, “ Low-cost robot arm with 3-DOF counterbalance mechanism” DOI: 10.1109/ICRA.2013.6631168.](https://ieeexplore.ieee.org/document/6631168)
+1. [Hwi-Su Kim; Jae-Bok Song, “ Low-cost robot arm with 3-DOF counterbalance mechanism” DOI: 10.1109/ICRA.2013.6631168.](https://ieeexplore.ieee.org/document/6631168)
 
 
 
