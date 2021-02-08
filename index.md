@@ -24,7 +24,7 @@ makkarab@asu.edu
 [Biomechanics Background and Initial Specifications](https://github.com/cvignola95/cvignola95.github.io/blob/main/BiomechanicsBackgroundInitialSpecifications.ipynb)
 
 
-## Background
+## Bibliography
 [link to background](/background)
 
 
