@@ -25,7 +25,7 @@ makkarab@asu.edu
 
 
 ## Bibliography
-[link to background](/background)
+[Link to Bibliography](/bibliography)
 
 
 
