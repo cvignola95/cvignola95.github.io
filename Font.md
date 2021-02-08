@@ -14,7 +14,7 @@ _Italic Text_
 
 ## Background
 
-[![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png){target="_blank"}
+![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
 
 [link to background](/background)
 
