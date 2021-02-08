@@ -32,10 +32,14 @@ title: Bibliography
 1. G. Lauder and R. Shadwick, Fish biomechanics. Amsterdam: Academic Press, 2006, pp. 29-75.
 
 a. Mohamad Aizat Abdul Wahit, Siti Anom Ahmad, Mohammad Hamiruce Marhaban, Chikamune Wada  and Lila Iznita Izhar “3D Printed Robot Hand Structure Using Four-Bar Linkage Mechanism for Prosthetic Application” Sensors (Basel). 2020 Aug; 20(15): 4174. Published online 2020 Jul 27. doi: 10.3390/s20154174  PMCID: PMC7435972 PMID: 32727150.
-b. Saha, Deeptam & Sanfui, Subhajit & Kabiraj, Rajat & Das, Santanu. (2014). Design and Implementation of a 4-Bar linkage Gripper. IOSR Journal of Mechanical and Civil Engineering. 11. 61-66. 10.9790/1684-11546166. 
-c. Benjamin D. Shuch, Taha Shafa, Eric Rogers, Daniel M. Aukes. “DESIGN OF A TWO DOF LAMINATE LEG TRANSMISSION FOR CREATING WALKING ROBOT PLATFORMS” IDETC/CIE2019. IDETC2019-98100.
-d. Appolinaire C. Etoundi; Ravi Vaidyanathan; Stuart C. Burgess. “A bio-inspired condylar hinge joint for mobile robots” DOI: 10.1109/IROS.2011.6094924.
-e. Hwi-Su Kim; Jae-Bok Song, “ Low-cost robot arm with 3-DOF counterbalance mechanism” DOI: 10.1109/ICRA.2013.6631168.
+
+a. Saha, Deeptam & Sanfui, Subhajit & Kabiraj, Rajat & Das, Santanu. (2014). Design and Implementation of a 4-Bar linkage Gripper. IOSR Journal of Mechanical and Civil Engineering. 11. 61-66. 10.9790/1684-11546166. 
+
+a. Benjamin D. Shuch, Taha Shafa, Eric Rogers, Daniel M. Aukes. “DESIGN OF A TWO DOF LAMINATE LEG TRANSMISSION FOR CREATING WALKING ROBOT PLATFORMS” IDETC/CIE2019. IDETC2019-98100.
+
+a. Appolinaire C. Etoundi; Ravi Vaidyanathan; Stuart C. Burgess. “A bio-inspired condylar hinge joint for mobile robots” DOI: 10.1109/IROS.2011.6094924.
+
+a. Hwi-Su Kim; Jae-Bok Song, “ Low-cost robot arm with 3-DOF counterbalance mechanism” DOI: 10.1109/ICRA.2013.6631168.
 
 
 
