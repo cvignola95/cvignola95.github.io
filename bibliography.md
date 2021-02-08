@@ -1,5 +1,5 @@
 ---
-title: Bibliography
+Title: Bibliography
 ---
 
 # Bibliography
