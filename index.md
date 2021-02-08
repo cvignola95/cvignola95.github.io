@@ -21,7 +21,7 @@ makkarab@asu.edu
 
 ## Team Assignment - Biomechanics Background and Initial Specifications
 
-
+[Biomechanics Background and Initial Specifications](https://github.com/cvignola95/cvignola95.github.io/blob/main/BiomechanicsBackgroundInitialSpecifications.ipynb)
 
 
 ## Background
