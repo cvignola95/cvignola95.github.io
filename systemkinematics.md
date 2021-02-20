@@ -34,3 +34,17 @@ _Update 02/19/2021_
 **Figure 12.** _Physical Model 11_
 
 ## [Kinematics Modeling Python Code](https://nbviewer.jupyter.org/github/cvignola95/cvignola95.github.io/blob/main/System%20Kinematics.ipynb)
+
+## Discussion
+
+1. How many degrees of freedom does your device have? How many motors? If the answer is not the same, what determines the state of the remaining degrees of freedom? How did you arrive at that number?
+The device has one degree of freedom as of now. So only one motor as of now. But the degrees of freedom will change after we design the end effector for the system. So more motors may be required. Once the end effector is designed, the team's website will be updated with the total degrees of freedom for the system and the total number of motor that will be finally used.
+
+1. If your mechanism has more than one degree of freedom, please describe how those multiple degrees of freedom will work togehter to create a locomotory gait or useful motion. What is your plan for synchonizing, especially if passive energy storage?
+The mechanism currenlty has only one degree of freedom. The descripion about how the system will work together to create a locomotory gait or useful motion will be added to the team's website after the end effector is designed and more degrees of freedom are added to the system later. The plan for synchronizing will also be updated on the team's website after the end effector is designed.
+
+1. How did you estimate your expected end-effector forces ?
+From our biomechanics studying, what we know is the maximum acceleration during the motion, we assume acceleration profiles are sinusoidal. Therefore, maximum acceleration happens at t = 0, goes to 0 at the midpoint and becomes negative from midpoint to reaching the prey. We also know the mass of the device; therefore, we can compute the force profile required for our device by using F = m*a.
+
+1. How did you estimate your expected end-effector speeds ?
+From literatures, we found the maximum speed and we know the speed at the initial point and final point is 0. Then, we just assume the speed profile is a sinusoildal function and fit the known parameters into the function.
