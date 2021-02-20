@@ -35,6 +35,8 @@ _Update 02/19/2021_
 
 ## [Kinematics Modeling Python Code](https://nbviewer.jupyter.org/github/cvignola95/cvignola95.github.io/blob/main/System%20Kinematics.ipynb)
 
+
+
 ## Discussion
 
 _1. How many degrees of freedom does your device have? How many motors? If the answer is not the same, what determines the state of the remaining degrees of freedom? How did you arrive at that number?_
