@@ -37,18 +37,18 @@ _Update 02/19/2021_
 
 ## Discussion
 
-1. _How many degrees of freedom does your device have? How many motors? If the answer is not the same, what determines the state of the remaining degrees of freedom? How did you arrive at that number?_
+_1. How many degrees of freedom does your device have? How many motors? If the answer is not the same, what determines the state of the remaining degrees of freedom? How did you arrive at that number?_
 
 The device has one degree of freedom as of now. So only one motor as of now. But the degrees of freedom will change after we design the end effector for the system. So more motors may be required. Once the end effector is designed, the team's website will be updated with the total degrees of freedom for the system and the total number of motor that will be finally used.
 
-1. _If your mechanism has more than one degree of freedom, please describe how those multiple degrees of freedom will work togehter to create a locomotory gait or useful motion. What is your plan for synchonizing, especially if passive energy storage?_ 
+_2. If your mechanism has more than one degree of freedom, please describe how those multiple degrees of freedom will work togehter to create a locomotory gait or useful motion. What is your plan for synchonizing, especially if passive energy storage?_ 
 
 The mechanism currenlty has only one degree of freedom. The descripion about how the system will work together to create a locomotory gait or useful motion will be added to the team's website after the end effector is designed and more degrees of freedom are added to the system later. The plan for synchronizing will also be updated on the team's website after the end effector is designed.
 
-1. _How did you estimate your expected end-effector forces ?_
+_3. How did you estimate your expected end-effector forces ?_
 
 From our biomechanics studying, what we know is the maximum acceleration during the motion, we assume acceleration profiles are sinusoidal. Therefore, maximum acceleration happens at t = 0, goes to 0 at the midpoint and becomes negative from midpoint to reaching the prey. We also know the mass of the device; therefore, we can compute the force profile required for our device by using F = m*a.
 
-1. _How did you estimate your expected end-effector speeds ?_
+_4. How did you estimate your expected end-effector speeds ?_
 
 From literatures, we found the maximum speed and we know the speed at the initial point and final point is 0. Then, we just assume the speed profile is a sinusoildal function and fit the known parameters into the function.
