@@ -4,7 +4,7 @@ title: System Kinematics
 
 # Figure in Vector-Based Drawing
 
-![Annotated Figure](./Annotated Figure.svg)
+![Annotated Figure](/AnnotatedFigure.svg)
 **Figura 1.** _Area_
 ![MAppa](/Mappa.jpg)
 
