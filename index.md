@@ -25,6 +25,7 @@ makkarab@asu.edu
 
 ## Team Assignment - System Kinematics
 [System Kinematics](/systemkinematics)
+[Github Rep](/SystemKinematics123.ipynb)
 
 
 ## Bibliography
