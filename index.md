@@ -27,6 +27,7 @@ makkarab@asu.edu
 [System Kinematics](/systemkinematics1.md)
 
 [Github Rep](/SystemKinematics123.ipynb)
+[Nbviewer 10 Minutes Update](https://nbviewer.jupyter.org/github/cvignola95/cvignola95.github.io/blob/main/SystemKinematics123.ipynb)
 
 
 ## Bibliography
