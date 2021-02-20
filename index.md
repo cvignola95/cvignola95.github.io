@@ -23,6 +23,9 @@ makkarab@asu.edu
 
 [Biomechanics Background and Initial Specifications](https://nbviewer.jupyter.org/github/cvignola95/cvignola95.github.io/blob/main/Biomechanics%20Background%20and%20Initial%20Specifications.ipynb)
 
+## Team Assignment - System Kinematics
+[System Kinematics](/systemkinematics)
+
 
 ## Bibliography
 [Link to Bibliography](/bibliography)
