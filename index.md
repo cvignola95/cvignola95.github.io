@@ -21,10 +21,10 @@ makkarab@asu.edu
 
 ## Team Assignment - Biomechanics Background and Initial Specifications
 
-![Biomechanics Background and Initial Specifications](https://nbviewer.jupyter.org/github/cvignola95/cvignola95.github.io/blob/main/Biomechanics%20Background%20and%20Initial%20Specifications.ipynb)
+[Biomechanics Background and Initial Specifications](https://nbviewer.jupyter.org/github/cvignola95/cvignola95.github.io/blob/main/Biomechanics%20Background%20and%20Initial%20Specifications.ipynb)
 
 ## Team Assignment - System Kinematics
-![System Kinematics](https://nbviewer.jupyter.org/github/cvignola95/cvignola95.github.io/blob/main/SystemKinematics123.ipynb)
+[System Kinematics](https://nbviewer.jupyter.org/github/cvignola95/cvignola95.github.io/blob/main/SystemKinematics123.ipynb)
 
 
 ### Presentation 1
