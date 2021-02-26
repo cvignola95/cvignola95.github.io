@@ -33,7 +33,7 @@ makkarab@asu.edu
 ### Presentation 1
 [Presentation Slides Link](https://docs.google.com/presentation/d/137fHI9rQhLq9UlITZmbPOB6qAKrobm8TgvPYlnRE7vQ/edit#slide=id.p)
 
-[![Video](/Vid1.jpg)](https://www.youtube.com/watch?v=QXzkOhEvqZw&feature=youtu.be)
+[![Video](/Vid1.jpg)](https://www.youtube.com/watch?v=ZBIt6f6lyqY&feature=youtu.be)
 
 ## Bibliography
 [Link to Bibliography](/bibliography)
