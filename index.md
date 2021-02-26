@@ -43,7 +43,7 @@ makkarab@asu.edu
 
 [Font](/Font)
 
-[Rick](https://youtu.be/dQw4w9WgXcQ?t=45)
+[Spoiler](https://youtu.be/dQw4w9WgXcQ?t=45)
 
 
 
