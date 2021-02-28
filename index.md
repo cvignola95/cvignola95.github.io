@@ -29,6 +29,10 @@ makkarab@asu.edu
 ## Team Assignment - System Kinematics
 [System Kinematics](https://nbviewer.jupyter.org/github/cvignola95/cvignola95.github.io/blob/main/SystemKinematics123.ipynb)
 
+## Team Assignment - System Dinamics
+[System Dinamics](https://youtu.be/dQw4w9WgXcQ?t=45)
+
+
 
 ### Presentation 1
 [Presentation Slides Link](https://docs.google.com/presentation/d/137fHI9rQhLq9UlITZmbPOB6qAKrobm8TgvPYlnRE7vQ/edit#slide=id.p)
