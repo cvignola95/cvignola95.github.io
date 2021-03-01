@@ -31,7 +31,8 @@ makkarab@asu.edu
 
 ## Team Assignment - System Dinamics
 [System Dinamics](/SystemDynamics.ipynb)
-[System Dinamics](https://nbviewer.jupyter.org/github/cvignola95/cvignola95.github.io/blob/main/SystemDynamics.ipynb)
+
+[System Dinamics Nbviewer](https://nbviewer.jupyter.org/github/cvignola95/cvignola95.github.io/blob/main/SystemDynamics.ipynb)
 
 
 ### Presentation 1
