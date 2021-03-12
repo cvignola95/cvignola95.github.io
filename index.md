@@ -22,7 +22,7 @@ makkarab@asu.edu
 [*_Code Daily Updated_*](https://colab.research.google.com/drive/1bsCJCii6tlUxw3w6HBCngL2EFwV7QNmZ)
 
 ## Team Assignment - Develop a Research Question
-[How to modify actuator’s stiffness to achieve controllable linear and/or spherical motion of a paper and plastic based robotic actuator/s using foldable robotics techniques.](/researchquestion)
+[How to modify actuator’s stiffness to achieve controllable linear motion of a paper and plastic based robotic actuator/s using foldable robotics techniques.](/researchquestion)
 
 ## Team Assignment - Biomechanics Background and Initial Specifications
 
