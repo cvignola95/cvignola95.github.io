@@ -42,7 +42,7 @@ makkarab@asu.edu
 
 ### Team Assignment - System Dynamics 2
 
-[System Dynamics 2](/SystemDynamics)
+[System Dynamics 2](https://nbviewer.jupyter.org/github/cvignola95/cvignola95.github.io/blob/main/System_Dynamics_2.ipynb)
 
 ## Bibliography
 [Link to Bibliography](/bibliography)
