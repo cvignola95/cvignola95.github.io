@@ -38,7 +38,8 @@ Title: Bibliography
 
 1. [Hwi-Su Kim; Jae-Bok Song, “ Low-cost robot arm with 3-DOF counterbalance mechanism” DOI: 10.1109/ICRA.2013.6631168.](https://ieeexplore.ieee.org/document/6631168)
 
-
+## System Dynamics
+1. R. Allain, "How Do You Model a Spring?", Wired, 2014. [Online]. Available: https://www.wired.com/2014/07/how-do-you-model-a-spring/. 
 
 ## Results
 
