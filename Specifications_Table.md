@@ -1,4 +1,4 @@
-|Parameter Old|Value Range Old|Unit Informed Value|Current Value|Reference|
+|Parameter Old|Value Range Old|Unit|Informed Value|Current Value|Reference|
 |---|---|---|---|---|
 |Length of Whole body|175|mm|Length of Top Bar|180|![1]|
 |Mass of Whole body|100|g|Mass of Structure|45|[1]|
