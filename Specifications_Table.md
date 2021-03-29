@@ -11,8 +11,8 @@
 |Time to Jaw Retraction|102-120|ms|Time for Retraction|500|[2]|
 |Max Protrusion Velocity|1.86-2.76|m/s|Max Velocity|0.6425|[2]|
 |Max Protrusion Acceleration|67.4-155|m/sec^2|Acceleration|0.257|[2]|
-|Mass of movable object|20|g|End Effector Grasp Force|Unknown|[13]|
+|Mass of movable object|20|g|End Effector Grasp Force|Unknown|[12]|
 
-13. [M. Strawberry and T. Cohent, "How Many Strawberries in a Serving? (Helpful Table)", Strawberry Plants . org, 2021. [Online]. Available: https://strawberryplants.org/strawberry-serving/. [Accessed: 22- Mar- 2021].](https://strawberryplants.org/strawberry-serving)
+12. [M. Strawberry and T. Cohent, "How Many Strawberries in a Serving? (Helpful Table)", Strawberry Plants . org, 2021. [Online]. Available: https://strawberryplants.org/strawberry-serving/. [Accessed: 22- Mar- 2021].](https://strawberryplants.org/strawberry-serving)
 
 
