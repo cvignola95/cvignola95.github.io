@@ -1,3 +1,6 @@
+|Table 1. Informed Specifications|
+|-|
+
 |Parameter Old|Value Range Old|Unit|Informed Value|Current Value|Reference|
 |---|---|---|---|---|---|
 |Length of Whole body|175|mm|Length of Top Bar|180|[1]|
