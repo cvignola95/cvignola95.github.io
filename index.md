@@ -21,32 +21,30 @@ makkarab@asu.edu
 
 [*_Code Daily Updated_*](https://colab.research.google.com/drive/1bsCJCii6tlUxw3w6HBCngL2EFwV7QNmZ)
 
-## Team Assignment - Develop a Research Question
+## Research Question
 [How to modify actuator’s stiffness to achieve controllable linear motion of a paper and plastic based robotic actuator/s using foldable robotics techniques.](/researchquestion)
 
-## Team Assignment - Biomechanics Background and Initial Specifications
+## Biomechanics Background and Initial Specifications
 
 [Biomechanics Background and Initial Specifications](https://nbviewer.jupyter.org/github/cvignola95/cvignola95.github.io/blob/main/Biomechanics%20Background%20and%20Initial%20Specifications.ipynb)
 
 [Updated Specifications](/Specifications_Table.md)
 
-## Team Assignment - System Kinematics
+## System Kinematics
 [System Kinematics](https://nbviewer.jupyter.org/github/cvignola95/cvignola95.github.io/blob/main/SystemKinematics123.ipynb)
 
-## Team Assignment - System Dinamics 1
+## System Dinamics
 [System Dinamics 1](https://nbviewer.jupyter.org/github/cvignola95/cvignola95.github.io/blob/main/SystemDynamics.ipynb)
+[Dynamics Plan]
+[Dynamics Prep (Individual Parameter ID)](/Individual_Parameter.md)
+[System Dynamics 2](https://nbviewer.jupyter.org/github/cvignola95/cvignola95.github.io/blob/main/System_Dynamics_2.ipynb)
 
-
-### Presentation 1
+## Presentation 1
 [Presentation Slides Link](https://docs.google.com/presentation/d/137fHI9rQhLq9UlITZmbPOB6qAKrobm8TgvPYlnRE7vQ/edit#slide=id.p)
 
 [![Video](/Vid1.jpg)](https://www.youtube.com/watch?v=ZBIt6f6lyqY&feature=youtu.be)
 
-### Team Assignment - System Dynamics 2
-
-[System Dynamics 2](https://nbviewer.jupyter.org/github/cvignola95/cvignola95.github.io/blob/main/System_Dynamics_2.ipynb)
-
-### Presentation 2
+## Presentation 2
 [Presentation 2 Slides Link](https://docs.google.com/presentation/d/15BGGt5LdG1sRCbrW2DNORBAN5tUmGnqnQydDpbYXm9c/edit?usp=sharing)
 
 [![Video](/Vid2.jpg)](https://youtu.be/SbaEKWXYRNA)
