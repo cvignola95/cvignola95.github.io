@@ -1,6 +1,6 @@
 |Parameter Old|Value Range Old|Unit|Informed Value|Current Value|Reference|
 |---|---|---|---|---|---|
-|Length of Whole body|175|mm|Length of Top Bar|180|![1]|
+|Length of Whole body|175|mm|Length of Top Bar|180|[1]|
 |Mass of Whole body|100|g|Mass of Structure|45|[1]|
 |Mass of the Jaw|2|g|Mass of 4 Bar Mechanism|12.8|[1]|
 |Jaw Reaching Distance|30-40|mm|Reaching Distance|155|[2]|
@@ -10,5 +10,6 @@
 |Max Protrusion Acceleration|67.4-155|m/sec^2|Acceleration|0.257|[2]|
 |Mass of movable object|20|g|End Effector Grasp Force|Unknown|[13]|
 
+13. [M. Strawberry and T. Cohent, "How Many Strawberries in a Serving? (Helpful Table)", Strawberry Plants . org, 2021. [Online]. Available: https://strawberryplants.org/strawberry-serving/. [Accessed: 22- Mar- 2021].](https://strawberryplants.org/strawberry-serving)
 
 
