@@ -1,5 +1,5 @@
 |Parameter Old|Value Range Old|Unit|Informed Value|Current Value|Reference|
-|---|---|---|---|---|
+|---|---|---|---|---|---|
 |Length of Whole body|175|mm|Length of Top Bar|180|![1]|
 |Mass of Whole body|100|g|Mass of Structure|45|[1]|
 |Mass of the Jaw|2|g|Mass of 4 Bar Mechanism|12.8|[1]|
