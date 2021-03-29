@@ -21,12 +21,12 @@ actuator modeling
 1. Split each of these tasks to the individuals on your team, and come up with at least one deliverable for each person for the remainder of the week
 1. The remaining tasks will be assigned to the group for next week’s assignment.
 
-# Claudio
+## Claudio
 
 Responsible for completition of section 1 and 3 of the [Dynamics 2 Plan](https://egr557.github.io/assignments/dynamics-ii-plan.html)
 
-# Chien-Wen
+## Chien-Wen
 
-# Dallas
+## Dallas
 
-# Manoj
+## Manoj
