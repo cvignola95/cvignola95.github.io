@@ -35,8 +35,11 @@ makkarab@asu.edu
 
 ## System Dinamics
 [System Dinamics 1](https://nbviewer.jupyter.org/github/cvignola95/cvignola95.github.io/blob/main/SystemDynamics.ipynb)
+
 [Dynamics Plan]
+
 [Dynamics Prep (Individual Parameter ID)](/Individual_Parameter.md)
+
 [System Dynamics 2](https://nbviewer.jupyter.org/github/cvignola95/cvignola95.github.io/blob/main/System_Dynamics_2.ipynb)
 
 ## Presentation 1
