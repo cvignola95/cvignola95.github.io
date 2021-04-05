@@ -1,5 +1,5 @@
 |Table 1. Informed Specifications|
-|-|
+|-------|
 
 |Parameter Old|Value Range Old|Unit|Informed Value|Current Value|Reference|
 |---|---|---|---|---|---|
