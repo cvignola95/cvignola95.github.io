@@ -27,6 +27,8 @@ Responsible for completition of section 1 and 3 of the [Dynamics 2 Plan](https:/
 
 ## Chien-Wen
 
+Responsible for completition of section 5 of the [Dynamics 2 Plan](https://egr557.github.io/assignments/dynamics-ii-plan.html), making sure all the code and simulation results go well
+
 Responsible for completition of section 5 of the [Dynamics 2 Plan](https://egr557.github.io/assignments/dynamics-ii-plan.html), making sure all the code and simulation results go as planned.
 
 ## Dallas
