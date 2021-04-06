@@ -30,3 +30,4 @@ Responsible for completition of section 1 and 3 of the [Dynamics 2 Plan](https:/
 ## Dallas
 
 ## Manoj
+Responsible for completeion of section 2 of the [Dynamics 2 Plan](https://egr557.github.io/assignments/dynamics-ii-plan.html)
