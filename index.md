@@ -42,6 +42,16 @@ makkarab@asu.edu
 
 [System Dynamics 2](https://nbviewer.jupyter.org/github/cvignola95/cvignola95.github.io/blob/main/System_Dynamics_2.ipynb)
 
+## Design Optimization
+[Optimization]()
+
+## Design & Manufacturing
+[1 vs 5 Layer Design]()
+
+## Data Collection
+[Data Collection]()
+
+
 ## Presentation 1
 [Presentation Slides Link](https://docs.google.com/presentation/d/137fHI9rQhLq9UlITZmbPOB6qAKrobm8TgvPYlnRE7vQ/edit#slide=id.p)
 
@@ -53,7 +63,7 @@ makkarab@asu.edu
 [![Video](/Vid2.jpg)](https://youtu.be/SbaEKWXYRNA)
 
 ## Final Presentation
-[Final Slides Link](https://docs.google.com/presentation/d/15BGGt5LdG1sRCbrW2DNORBAN5tUmGnqnQydDpbYXm9c/edit?usp=sharing)
+[Final Slides Link](https://docs.google.com/presentation/d/12NEWkg_m1x3BnfzIubambRhqEPA_OuUbSNY4wkY05UU/edit?usp=sharing)
 
 [![Video](/Vid2.jpg)](https://youtu.be/SbaEKWXYRNA)
 
