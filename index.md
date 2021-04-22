@@ -65,7 +65,7 @@ makkarab@asu.edu
 ## Final Presentation
 [Final Slides Link](https://docs.google.com/presentation/d/12NEWkg_m1x3BnfzIubambRhqEPA_OuUbSNY4wkY05UU/edit?usp=sharing)
 
-[![Video](/Vid2.jpg)](https://youtu.be/SbaEKWXYRNA)
+[![Video](/Vid2.jpg)](https://www.youtube.com/watch?v=-74o7Ld8RHU&t=6s)
 
 ## Bibliography
 [Link to Bibliography](/bibliography)
