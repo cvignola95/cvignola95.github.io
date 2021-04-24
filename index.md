@@ -43,7 +43,7 @@ makkarab@asu.edu
 [System Dynamics 2](https://nbviewer.jupyter.org/github/cvignola95/cvignola95.github.io/blob/main/System_Dynamics_2.ipynb)
 
 ## Design Optimization
-[Optimization]()
+[Optimization](https://nbviewer.jupyter.org/github/cvignola95/cvignola95.github.io/blob/main/DesignOptimizationTeam7.ipynb)
 
 ## Design & Manufacturing
 [1 vs 5 Layer Design]()
