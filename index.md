@@ -46,7 +46,7 @@ makkarab@asu.edu
 [Optimization](https://nbviewer.jupyter.org/github/cvignola95/cvignola95.github.io/blob/main/DesignOptimizationTeam7.ipynb)
 
 ## Design & Manufacturing
-[1 vs 5 Layer Design]()
+[1 vs 5 Layer Design](https://nbviewer.jupyter.org/github/cvignola95/cvignola95.github.io/blob/main/Four%20Bar%20Design%20and%20Manufacturing.ipynb)
 
 ## Data Collection
 [Data Collection]()
