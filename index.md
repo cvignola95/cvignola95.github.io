@@ -49,7 +49,7 @@ makkarab@asu.edu
 [1 vs 5 Layer Design](https://nbviewer.jupyter.org/github/cvignola95/cvignola95.github.io/blob/main/Four%20Bar%20Design%20and%20Manufacturing.ipynb)
 
 ## Data Collection
-[Data Collection]()
+[Data Collection](https://nbviewer.jupyter.org/github/cvignola95/cvignola95.github.io/blob/main/Data%20Collection%20and%20Experimental%20Validation.ipynb)
 
 
 ## Presentation 1
